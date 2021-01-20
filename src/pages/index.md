@@ -7,7 +7,7 @@ sections:
     image: images/5.jpg
     content: >
       Cos'è questo, se non un altro luogo dell'internet in cui inserire
-      pensierini che nessuno leggera?
+      pensierini che nessuno leggerà?
     actions:
       - label: Get Started
         url: /docs
