@@ -5,9 +5,9 @@ sections:
     type: section_hero
     title: Nxxxxa Mxxxxxxxa
     image: images/5.jpg
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Cos'è questo, se non un altro luogo dell'internet in cui inserire
+      pensierini che nessuno leggera?
     actions:
       - label: Get Started
         url: /docs
